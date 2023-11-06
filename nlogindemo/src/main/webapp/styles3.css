@@ -1,0 +1,52 @@
+
+
+
+
+
+
+
+
+
+
+
+
+form{
+	align-content:center;
+    width: 800px;
+    margin-bottom:60px;
+    margin-left:550px;
+    padding: 20px;
+    background-color: rgb(255, 0, 0);
+    background-image:linear-gradient(black,red);
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+form:hover{         
+    box-shadow: 0 0 20px #eee;
+   
+}
+
+#form1{
+
+    width:300px
+}
+
+#submitbtn{
+    width: 70px;
+    height: 30px;
+    background-color:rgb(0, 0, 0);
+    color: gray;
+
+    border-radius: 5px;
+}
+
+#submitbtn:hover{
+    cursor: pointer;
+    background-color: blue;
+}
+
+
+
